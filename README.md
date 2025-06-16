@@ -1,7 +1,7 @@
 # ChameleonRT
 
 [![CMake](https://github.com/Twinklebear/ChameleonRT/actions/workflows/cmake.yml/badge.svg)](https://github.com/Twinklebear/ChameleonRT/actions/workflows/cmake.yml)
-
+Yes I know you're g=doing good whereever you are man!
 An example path tracer that runs on multiple ray tracing backends (Embree/Embree+SYCL/DXR/OptiX/Vulkan/Metal/OSPRay).
 Uses [tinyobjloader](https://github.com/syoyo/tinyobjloader) to load OBJ files,
 [tinygltf](https://github.com/syoyo/tinygltf) to load glTF files and, optionally,
